@@ -1,0 +1,27 @@
+# OMC internal state
+.omc/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots output
+screenshots/
+
+# Generated files
+*.docx
+PRD.md
